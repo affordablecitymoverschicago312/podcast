@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
 
     <title>Moving to Chicago: The Neighborhood Guide</title>
-    <link>https://affordablecitymovers.com/neighborhoods</link>
-    <description>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day, from a crew that has done hundreds of moves across the city. Narrated with a synthetic voice. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657, 312-210-0259, affordablecitymovers.com</description>
+    <link>https://affordablecitymovers.com/neighborhoods/</link>
+    <description><![CDATA[<p>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day &mdash; from a crew that has done hundreds of moves across the city.</p>
+<p>Narrated with a synthetic voice.</p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St, Suite 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">312-210-0259</a><br/>
+<a href="https://affordablecitymovers.com">affordablecitymovers.com</a></p>]]></description>
     <language>en-us</language>
     <copyright>Affordable City Movers</copyright>
+    <lastBuildDate>Sat, 22 Aug 2026 12:00:00 +0000</lastBuildDate>
+    <managingEditor>info@affordablecitymovers.com (Affordable City Movers)</managingEditor>
+    <webMaster>info@affordablecitymovers.com (Affordable City Movers)</webMaster>
 
     <atom:link href="https://podcast.affordablecitymovers.com/feed.xml" rel="self" type="application/rss+xml"/>
 
+    <image>
+      <url>https://podcast.affordablecitymovers.com/cover.jpg</url>
+      <title>Moving to Chicago: The Neighborhood Guide</title>
+      <link>https://affordablecitymovers.com/neighborhoods/</link>
+    </image>
+
     <itunes:author>Affordable City Movers</itunes:author>
-    <itunes:summary>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day, from a crew that has done hundreds of moves across the city.</itunes:summary>
+    <itunes:summary>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day, from a crew that has done hundreds of moves across the city. Narrated with a synthetic voice. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259. affordablecitymovers.com</itunes:summary>
     <itunes:owner>
       <itunes:name>Affordable City Movers</itunes:name>
       <itunes:email>info@affordablecitymovers.com</itunes:email>
@@ -25,40 +41,68 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <podcast:guid>f1135fba-2d9e-5479-99ea-b4a9d11c5994</podcast:guid>
+    <podcast:locked owner="info@affordablecitymovers.com">yes</podcast:locked>
+    <podcast:location geo="geo:41.9375,-87.6440">Chicago, Illinois</podcast:location>
+
     <item>
       <title>Moving to Lakeview: Six-Flats, Game Days, and Why People Stay</title>
       <link>https://affordablecitymovers.com/lakeview-chicago-movers/</link>
-      <description>What Lakeview is actually like to live in. Courtyard six flats, the Wrigley Field effect, why so many people arrive for one year and stay for nine, and the late August week when the whole neighborhood turns over at once. Six oh six one three and six oh six five seven. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657, 312-210-0259, affordablecitymovers.com</description>
+      <description><![CDATA[<p>What Lakeview is actually like to live in. Courtyard six-flats, the Wrigley Field effect on daily life, why so many people arrive for one year and stay for nine, and the late-August week when the whole neighborhood turns over at once.</p>
+<p>Covers ZIP codes 60613 and 60657.</p>
+<p><a href="https://affordablecitymovers.com/lakeview-chicago-movers/">Lakeview moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St, Suite 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">312-210-0259</a></p>]]></description>
+      <itunes:summary>What Lakeview is actually like to live in. Courtyard six-flats, the Wrigley Field effect on daily life, why so many people arrive for one year and stay for nine, and the late-August week when the whole neighborhood turns over at once. Covers ZIP codes 60613 and 60657. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259.</itunes:summary>
       <pubDate>Mon, 10 Aug 2026 14:00:00 +0000</pubDate>
       <enclosure url="https://podcast.affordablecitymovers.com/01-lakeview.mp3" length="3584765" type="audio/mpeg"/>
-      <guid isPermaLink="false">acm-lakeview-001</guid>
+      <guid isPermaLink="false">affordablecitymovers-lakeview-001</guid>
       <itunes:duration>3:43</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9403,-87.6537">Lakeview, Chicago, Illinois</podcast:location>
     </item>
 
     <item>
-      <title>Moving to Lincoln Park: The Park, DePaul, and Thirty-Four Inch Stairwells</title>
+      <title>Moving to Lincoln Park: The Park, DePaul, and 34-Inch Stairwells</title>
       <link>https://affordablecitymovers.com/lincoln-park-movers/</link>
-      <description>What Lincoln Park is actually like to live in. Twelve hundred acres of lakefront park with a free zoo, the DePaul calendar that drives the whole neighborhood every August and May, and a housing stock that runs from narrow brownstone walk ups to high rises on the Drive. Six oh six one four. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657, 312-210-0259, affordablecitymovers.com</description>
+      <description><![CDATA[<p>What Lincoln Park is actually like to live in. Over 1,200 acres of lakefront park with a free zoo, the DePaul calendar that drives the whole neighborhood every August and May, and a housing stock that runs from narrow brownstone walk-ups to high-rises on the Drive.</p>
+<p>Covers ZIP code 60614.</p>
+<p><a href="https://affordablecitymovers.com/lincoln-park-movers/">Lincoln Park moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St, Suite 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">312-210-0259</a></p>]]></description>
+      <itunes:summary>What Lincoln Park is actually like to live in. Over 1,200 acres of lakefront park with a free zoo, the DePaul calendar that drives the whole neighborhood every August and May, and a housing stock that runs from narrow brownstone walk-ups to high-rises on the Drive. Covers ZIP code 60614. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259.</itunes:summary>
       <pubDate>Mon, 17 Aug 2026 14:00:00 +0000</pubDate>
       <enclosure url="https://podcast.affordablecitymovers.com/02-lincoln-park.mp3" length="3653728" type="audio/mpeg"/>
-      <guid isPermaLink="false">acm-lincoln-park-002</guid>
+      <guid isPermaLink="false">affordablecitymovers-lincoln-park-002</guid>
       <itunes:duration>3:47</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9214,-87.6513">Lincoln Park, Chicago, Illinois</podcast:location>
     </item>
 
     <item>
-      <title>Moving to the Gold Coast: Freight Windows, Astor Street, and Why You Cannot Move on a Saturday</title>
+      <title>Moving to the Gold Coast: Why You Can't Move on a Saturday</title>
       <link>https://affordablecitymovers.com/gold-coast-movers/</link>
-      <description>The Gold Coast is the one Chicago neighborhood where your move date is not entirely your decision. Freight elevator windows, limestone mansions on Astor with staircases built for a different era of furniture, and why January through March is the clearest stretch of the year here. Six oh six one zero and six oh six one one. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657, 312-210-0259, affordablecitymovers.com</description>
+      <description><![CDATA[<p>The Gold Coast is the one Chicago neighborhood where your move date isn't entirely your decision. Freight elevator windows that exclude weekends, limestone mansions on Astor with staircases built for a different era of furniture, and why January through March is the clearest stretch of the year here.</p>
+<p>Covers ZIP codes 60610 and 60611.</p>
+<p><a href="https://affordablecitymovers.com/gold-coast-movers/">Gold Coast moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St, Suite 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">312-210-0259</a></p>]]></description>
+      <itunes:summary>The Gold Coast is the one Chicago neighborhood where your move date isn't entirely your decision. Freight elevator windows that exclude weekends, limestone mansions on Astor with staircases built for a different era of furniture, and why January through March is the clearest stretch of the year here. Covers ZIP codes 60610 and 60611. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259.</itunes:summary>
       <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
       <enclosure url="https://podcast.affordablecitymovers.com/03-gold-coast.mp3" length="3372860" type="audio/mpeg"/>
-      <guid isPermaLink="false">acm-gold-coast-003</guid>
+      <guid isPermaLink="false">affordablecitymovers-gold-coast-003</guid>
       <itunes:duration>3:29</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9067,-87.6270">Gold Coast, Chicago, Illinois</podcast:location>
     </item>
 
   </channel>
