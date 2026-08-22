@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+
+    <title>Moving to Chicago: The Neighborhood Guide</title>
+    <link>https://affordablecitymovers.com/neighborhoods</link>
+    <description>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day, from a crew that has done hundreds of moves across the city. Narrated with a synthetic voice. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657, 312-210-0259, affordablecitymovers.com</description>
+    <language>en-us</language>
+    <copyright>Affordable City Movers</copyright>
+
+    <atom:link href="https://podcast.affordablecitymovers.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <itunes:author>Affordable City Movers</itunes:author>
+    <itunes:summary>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day, from a crew that has done hundreds of moves across the city.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Affordable City Movers</itunes:name>
+      <itunes:email>info@affordablecitymovers.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://podcast.affordablecitymovers.com/cover.jpg"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Places &amp; Travel"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Moving to Lakeview: Six-Flats, Game Days, and Why People Stay</title>
+      <link>https://affordablecitymovers.com/lakeview-chicago-movers/</link>
+      <description>What Lakeview is actually like to live in. Courtyard six flats, the Wrigley Field effect, why so many people arrive for one year and stay for nine, and the late August week when the whole neighborhood turns over at once. Six oh six one three and six oh six five seven. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657, 312-210-0259, affordablecitymovers.com</description>
+      <pubDate>Mon, 10 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/01-lakeview.mp3" length="3584765" type="audio/mpeg"/>
+      <guid isPermaLink="false">acm-lakeview-001</guid>
+      <itunes:duration>3:43</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Moving to Lincoln Park: The Park, DePaul, and Thirty-Four Inch Stairwells</title>
+      <link>https://affordablecitymovers.com/lincoln-park-movers/</link>
+      <description>What Lincoln Park is actually like to live in. Twelve hundred acres of lakefront park with a free zoo, the DePaul calendar that drives the whole neighborhood every August and May, and a housing stock that runs from narrow brownstone walk ups to high rises on the Drive. Six oh six one four. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657, 312-210-0259, affordablecitymovers.com</description>
+      <pubDate>Mon, 17 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/02-lincoln-park.mp3" length="3653728" type="audio/mpeg"/>
+      <guid isPermaLink="false">acm-lincoln-park-002</guid>
+      <itunes:duration>3:47</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Moving to the Gold Coast: Freight Windows, Astor Street, and Why You Cannot Move on a Saturday</title>
+      <link>https://affordablecitymovers.com/gold-coast-movers/</link>
+      <description>The Gold Coast is the one Chicago neighborhood where your move date is not entirely your decision. Freight elevator windows, limestone mansions on Astor with staircases built for a different era of furniture, and why January through March is the clearest stretch of the year here. Six oh six one zero and six oh six one one. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657, 312-210-0259, affordablecitymovers.com</description>
+      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/03-gold-coast.mp3" length="3372860" type="audio/mpeg"/>
+      <guid isPermaLink="false">acm-gold-coast-003</guid>
+      <itunes:duration>3:29</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
