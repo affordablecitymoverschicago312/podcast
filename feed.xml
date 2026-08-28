@@ -105,5 +105,26 @@ Chicago, IL 60657<br/>
       <podcast:location geo="geo:41.9067,-87.6270">Gold Coast, Chicago, Illinois</podcast:location>
     </item>
 
+           <item>
+      <title>Moving to Old Town Chicago: Carriage Houses, Wells Street, and Narrow Alleys</title>
+      <link>https://affordablecitymovers.com/old-town-movers/</link>
+      <description><![CDATA[<p>What Old Town is actually like to live in. Carriage houses hidden behind main-street addresses, 1870s two-flats sitting next to 1990s townhomes on the same block, the split personality of Wells Street versus the side streets, and alleys that vary from truck-friendly to impassable.</p>
+<p>Covers ZIP codes 60610 and 60614.</p>
+<p><a href="https://affordablecitymovers.com/old-town-movers/">Old Town moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St. Suite 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">312-210-0259</a></p>]]></description>
+      <itunes:summary>What Old Town is actually like to live in. Carriage houses hidden behind main-street addresses, 1870s two-flats sitting next to 1990s townhomes on the same block, the split personality of Wells Street versus the side streets, and alleys that vary from truck-friendly to impassable. Covers ZIP codes 60610 and 60614. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/04-old-town.mp3" length="3792073" type="audio/mpeg"/>
+      <guid isPermaLink="false">affordablecitymovers-old-town-004</guid>
+      <itunes:duration>3:55</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9086,-87.6386">Old Town, Chicago, Illinois</podcast:location>
+    </item>
+
+       
   </channel>
 </rss>
