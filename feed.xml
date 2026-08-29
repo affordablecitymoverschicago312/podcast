@@ -4,32 +4,28 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-
     <title>Moving to Chicago: The Neighborhood Guide</title>
     <link>https://affordablecitymovers.com/neighborhoods/</link>
     <description><![CDATA[<p>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day &mdash; from a crew that has done hundreds of moves across the city.</p>
 <p>Narrated with a synthetic voice.</p>
 <p><strong>Affordable City Movers</strong><br/>
-3033 N Clark St, Suite 007<br/>
+3033 N Clark St Ste 007<br/>
 Chicago, IL 60657<br/>
-<a href="tel:3122100259">312-210-0259</a><br/>
+<a href="tel:3122100259">(312) 210-0259</a><br/>
 <a href="https://affordablecitymovers.com">affordablecitymovers.com</a></p>]]></description>
     <language>en-us</language>
     <copyright>Affordable City Movers</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:00:00 +0000</lastBuildDate>
     <managingEditor>info@affordablecitymovers.com (Affordable City Movers)</managingEditor>
     <webMaster>info@affordablecitymovers.com (Affordable City Movers)</webMaster>
-
     <atom:link href="https://podcast.affordablecitymovers.com/feed.xml" rel="self" type="application/rss+xml"/>
-
     <image>
       <url>https://podcast.affordablecitymovers.com/cover.jpg</url>
       <title>Moving to Chicago: The Neighborhood Guide</title>
       <link>https://affordablecitymovers.com/neighborhoods/</link>
     </image>
-
     <itunes:author>Affordable City Movers</itunes:author>
-    <itunes:summary>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day, from a crew that has done hundreds of moves across the city. Narrated with a synthetic voice. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259. affordablecitymovers.com</itunes:summary>
+    <itunes:summary>Practical, neighborhood-by-neighborhood guidance for anyone moving in Chicago. Parking realities, building types, when to book, and what actually happens on move day, from a crew that has done hundreds of moves across the city. Narrated with a synthetic voice. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259. affordablecitymovers.com</itunes:summary>
     <itunes:owner>
       <itunes:name>Affordable City Movers</itunes:name>
       <itunes:email>info@affordablecitymovers.com</itunes:email>
@@ -40,11 +36,9 @@ Chicago, IL 60657<br/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
     <podcast:guid>f1135fba-2d9e-5479-99ea-b4a9d11c5994</podcast:guid>
     <podcast:locked owner="info@affordablecitymovers.com">yes</podcast:locked>
     <podcast:location geo="geo:41.9375,-87.6440">Chicago, Illinois</podcast:location>
-
     <item>
       <title>Moving to Lakeview: Six-Flats, Game Days, and Why People Stay</title>
       <link>https://affordablecitymovers.com/lakeview-chicago-movers/</link>
@@ -52,10 +46,10 @@ Chicago, IL 60657<br/>
 <p>Covers ZIP codes 60613 and 60657.</p>
 <p><a href="https://affordablecitymovers.com/lakeview-chicago-movers/">Lakeview moving guide &rarr;</a></p>
 <p><strong>Affordable City Movers</strong><br/>
-3033 N Clark St, Suite 007<br/>
+3033 N Clark St Ste 007<br/>
 Chicago, IL 60657<br/>
-<a href="tel:3122100259">312-210-0259</a></p>]]></description>
-      <itunes:summary>What Lakeview is actually like to live in. Courtyard six-flats, the Wrigley Field effect on daily life, why so many people arrive for one year and stay for nine, and the late-August week when the whole neighborhood turns over at once. Covers ZIP codes 60613 and 60657. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259.</itunes:summary>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>What Lakeview is actually like to live in. Courtyard six-flats, the Wrigley Field effect on daily life, why so many people arrive for one year and stay for nine, and the late-August week when the whole neighborhood turns over at once. Covers ZIP codes 60613 and 60657. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
       <pubDate>Mon, 10 Aug 2026 14:00:00 +0000</pubDate>
       <enclosure url="https://podcast.affordablecitymovers.com/01-lakeview.mp3" length="3584765" type="audio/mpeg"/>
       <guid isPermaLink="false">affordablecitymovers-lakeview-001</guid>
@@ -64,7 +58,6 @@ Chicago, IL 60657<br/>
       <itunes:explicit>false</itunes:explicit>
       <podcast:location geo="geo:41.9403,-87.6537">Lakeview, Chicago, Illinois</podcast:location>
     </item>
-
     <item>
       <title>Moving to Lincoln Park: The Park, DePaul, and 34-Inch Stairwells</title>
       <link>https://affordablecitymovers.com/lincoln-park-movers/</link>
@@ -72,10 +65,10 @@ Chicago, IL 60657<br/>
 <p>Covers ZIP code 60614.</p>
 <p><a href="https://affordablecitymovers.com/lincoln-park-movers/">Lincoln Park moving guide &rarr;</a></p>
 <p><strong>Affordable City Movers</strong><br/>
-3033 N Clark St, Suite 007<br/>
+3033 N Clark St Ste 007<br/>
 Chicago, IL 60657<br/>
-<a href="tel:3122100259">312-210-0259</a></p>]]></description>
-      <itunes:summary>What Lincoln Park is actually like to live in. Over 1,200 acres of lakefront park with a free zoo, the DePaul calendar that drives the whole neighborhood every August and May, and a housing stock that runs from narrow brownstone walk-ups to high-rises on the Drive. Covers ZIP code 60614. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259.</itunes:summary>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>What Lincoln Park is actually like to live in. Over 1,200 acres of lakefront park with a free zoo, the DePaul calendar that drives the whole neighborhood every August and May, and a housing stock that runs from narrow brownstone walk-ups to high-rises on the Drive. Covers ZIP code 60614. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
       <pubDate>Mon, 17 Aug 2026 14:00:00 +0000</pubDate>
       <enclosure url="https://podcast.affordablecitymovers.com/02-lincoln-park.mp3" length="3653728" type="audio/mpeg"/>
       <guid isPermaLink="false">affordablecitymovers-lincoln-park-002</guid>
@@ -84,7 +77,6 @@ Chicago, IL 60657<br/>
       <itunes:explicit>false</itunes:explicit>
       <podcast:location geo="geo:41.9214,-87.6513">Lincoln Park, Chicago, Illinois</podcast:location>
     </item>
-
     <item>
       <title>Moving to the Gold Coast: Why You Can't Move on a Saturday</title>
       <link>https://affordablecitymovers.com/gold-coast-movers/</link>
@@ -92,10 +84,10 @@ Chicago, IL 60657<br/>
 <p>Covers ZIP codes 60610 and 60611.</p>
 <p><a href="https://affordablecitymovers.com/gold-coast-movers/">Gold Coast moving guide &rarr;</a></p>
 <p><strong>Affordable City Movers</strong><br/>
-3033 N Clark St, Suite 007<br/>
+3033 N Clark St Ste 007<br/>
 Chicago, IL 60657<br/>
-<a href="tel:3122100259">312-210-0259</a></p>]]></description>
-      <itunes:summary>The Gold Coast is the one Chicago neighborhood where your move date isn't entirely your decision. Freight elevator windows that exclude weekends, limestone mansions on Astor with staircases built for a different era of furniture, and why January through March is the clearest stretch of the year here. Covers ZIP codes 60610 and 60611. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259.</itunes:summary>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>The Gold Coast is the one Chicago neighborhood where your move date isn't entirely your decision. Freight elevator windows that exclude weekends, limestone mansions on Astor with staircases built for a different era of furniture, and why January through March is the clearest stretch of the year here. Covers ZIP codes 60610 and 60611. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
       <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
       <enclosure url="https://podcast.affordablecitymovers.com/03-gold-coast.mp3" length="3372860" type="audio/mpeg"/>
       <guid isPermaLink="false">affordablecitymovers-gold-coast-003</guid>
@@ -104,18 +96,17 @@ Chicago, IL 60657<br/>
       <itunes:explicit>false</itunes:explicit>
       <podcast:location geo="geo:41.9067,-87.6270">Gold Coast, Chicago, Illinois</podcast:location>
     </item>
-
-           <item>
+    <item>
       <title>Moving to Old Town Chicago: Carriage Houses, Wells Street, and Narrow Alleys</title>
       <link>https://affordablecitymovers.com/old-town-movers/</link>
       <description><![CDATA[<p>What Old Town is actually like to live in. Carriage houses hidden behind main-street addresses, 1870s two-flats sitting next to 1990s townhomes on the same block, the split personality of Wells Street versus the side streets, and alleys that vary from truck-friendly to impassable.</p>
 <p>Covers ZIP codes 60610 and 60614.</p>
 <p><a href="https://affordablecitymovers.com/old-town-movers/">Old Town moving guide &rarr;</a></p>
 <p><strong>Affordable City Movers</strong><br/>
-3033 N Clark St. Suite 007<br/>
+3033 N Clark St Ste 007<br/>
 Chicago, IL 60657<br/>
-<a href="tel:3122100259">312-210-0259</a></p>]]></description>
-      <itunes:summary>What Old Town is actually like to live in. Carriage houses hidden behind main-street addresses, 1870s two-flats sitting next to 1990s townhomes on the same block, the split personality of Wells Street versus the side streets, and alleys that vary from truck-friendly to impassable. Covers ZIP codes 60610 and 60614. Affordable City Movers, 3033 N Clark St, Suite 007, Chicago, IL 60657. Phone 312-210-0259.</itunes:summary>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>What Old Town is actually like to live in. Carriage houses hidden behind main-street addresses, 1870s two-flats sitting next to 1990s townhomes on the same block, the split personality of Wells Street versus the side streets, and alleys that vary from truck-friendly to impassable. Covers ZIP codes 60610 and 60614. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
       <pubDate>Fri, 28 Aug 2026 14:00:00 +0000</pubDate>
       <enclosure url="https://podcast.affordablecitymovers.com/04-old-town.mp3" length="3792073" type="audio/mpeg"/>
       <guid isPermaLink="false">affordablecitymovers-old-town-004</guid>
@@ -124,7 +115,138 @@ Chicago, IL 60657<br/>
       <itunes:explicit>false</itunes:explicit>
       <podcast:location geo="geo:41.9086,-87.6386">Old Town, Chicago, Illinois</podcast:location>
     </item>
-
-       
+    <item>
+      <title>Moving to Andersonville: Glogg, Pine Stairs, and Market Saturdays</title>
+      <link>https://affordablecitymovers.com/andersonville-movers/</link>
+      <description><![CDATA[<p>What Andersonville is actually like to live in. Swedish roots and a ninety-year-old tavern, the Clark Street farmers market that owns Saturday mornings from June through October, and century-old pine stairs with risers steeper than anything built since.</p>
+<p>Covers ZIP code 60640.</p>
+<p><a href="https://affordablecitymovers.com/andersonville-movers/">Andersonville moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St Ste 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>What Andersonville is actually like to live in. Swedish roots and a ninety-year-old tavern, the Clark Street farmers market that owns Saturday mornings from June through October, and century-old pine stairs with risers steeper than anything built since. Covers ZIP code 60640. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/05-andersonville.mp3" length="2554914" type="audio/mpeg"/>
+      <guid isPermaLink="false">affordablecitymovers-andersonville-005</guid>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9795,-87.6690">Andersonville, Chicago, Illinois</podcast:location>
+    </item>
+    <item>
+      <title>Moving to Uptown: Charlie Chaplin, Jazz, and Very Long Hallways</title>
+      <link>https://affordablecitymovers.com/uptown-movers/</link>
+      <description><![CDATA[<p>Charlie Chaplin made films at Essanay Studios on Argyle before Hollywood was Hollywood, and the Green Mill has been running since 1907. Plus the pre-war courtyard complexes so large the walk from truck to front door is the part nobody plans for.</p>
+<p>Covers ZIP code 60640.</p>
+<p><a href="https://affordablecitymovers.com/uptown-movers/">Uptown moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St Ste 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>Charlie Chaplin made films at Essanay Studios on Argyle before Hollywood was Hollywood, and the Green Mill has been running since 1907. Plus the pre-war courtyard complexes so large the walk from truck to front door is the part nobody plans for. Covers ZIP code 60640. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 16:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/06-uptown.mp3" length="2508102" type="audio/mpeg"/>
+      <guid isPermaLink="false">affordablecitymovers-uptown-006</guid>
+      <itunes:duration>2:35</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9663,-87.6570">Uptown, Chicago, Illinois</podcast:location>
+    </item>
+    <item>
+      <title>Moving to Edgewater: Two Neighborhoods in Three Blocks</title>
+      <link>https://affordablecitymovers.com/edgewater-movers/</link>
+      <description><![CDATA[<p>Walk three blocks in Edgewater and go from a twelve-story tower with a freight elevator to a brick two-flat with a gangway. Two housing markets side by side, and which one you land in changes everything about your first day.</p>
+<p>Covers ZIP code 60660.</p>
+<p><a href="https://affordablecitymovers.com/edgewater-movers/">Edgewater moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St Ste 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>Walk three blocks in Edgewater and go from a twelve-story tower with a freight elevator to a brick two-flat with a gangway. Two housing markets side by side, and which one you land in changes everything about your first day. Covers ZIP code 60660. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/07-edgewater.mp3" length="2407792" type="audio/mpeg"/>
+      <guid isPermaLink="false">affordablecitymovers-edgewater-007</guid>
+      <itunes:duration>2:29</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9873,-87.6620">Edgewater, Chicago, Illinois</podcast:location>
+    </item>
+    <item>
+      <title>Moving to Ravenswood: The Train Runs Through It</title>
+      <link>https://affordablecitymovers.com/ravenswood-movers/</link>
+      <description><![CDATA[<p>The Brown Line runs elevated straight through the middle of Ravenswood, so train noise is part of the deal. In exchange you get one of the easiest neighborhoods in the city to move in and out of, plus loft conversions in the old industrial corridor.</p>
+<p>Covers ZIP codes 60613 and 60625.</p>
+<p><a href="https://affordablecitymovers.com/ravenswood-movers/">Ravenswood moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St Ste 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>The Brown Line runs elevated straight through the middle of Ravenswood, so train noise is part of the deal. In exchange you get one of the easiest neighborhoods in the city to move in and out of, plus loft conversions in the old industrial corridor. Covers ZIP codes 60613 and 60625. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/08-ravenswood.mp3" length="2558257" type="audio/mpeg"/>
+      <guid isPermaLink="false">affordablecitymovers-ravenswood-008</guid>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9686,-87.6800">Ravenswood, Chicago, Illinois</podcast:location>
+    </item>
+    <item>
+      <title>Moving to Lincoln Square: Maifest, Oktoberfest, and the Folk School</title>
+      <link>https://affordablecitymovers.com/lincoln-square-movers/</link>
+      <description><![CDATA[<p>Twice a year Lincoln Avenue closes down for Maifest and Oktoberfest. The rest of the year this is one of the calmest places on the North Side to move, with bungalows, greystones, and the Old Town School of Folk Music down the street.</p>
+<p>Covers ZIP codes 60618 and 60625.</p>
+<p><a href="https://affordablecitymovers.com/lincoln-square-movers/">Lincoln Square moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St Ste 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>Twice a year Lincoln Avenue closes down for Maifest and Oktoberfest. The rest of the year this is one of the calmest places on the North Side to move, with bungalows, greystones, and the Old Town School of Folk Music down the street. Covers ZIP codes 60618 and 60625. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 19:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/09-lincoln-square.mp3" length="2371012" type="audio/mpeg"/>
+      <guid isPermaLink="false">affordablecitymovers-lincoln-square-009</guid>
+      <itunes:duration>2:27</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9683,-87.6890">Lincoln Square, Chicago, Illinois</podcast:location>
+    </item>
+    <item>
+      <title>Moving to North Center: Wide Alleys, Diagonal Streets, and a Guitar Shop</title>
+      <link>https://affordablecitymovers.com/north-center-movers/</link>
+      <description><![CDATA[<p>Ask our crews for the easiest neighborhood in Chicago to move in and out of and a lot of them say North Center. Wide alleys, cooperative two-flats, and Lincoln Avenue cutting diagonally across the grid to keep truck routing interesting.</p>
+<p>Covers ZIP codes 60618 and 60613.</p>
+<p><a href="https://affordablecitymovers.com/north-center-movers/">North Center moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St Ste 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>Ask our crews for the easiest neighborhood in Chicago to move in and out of and a lot of them say North Center. Wide alleys, cooperative two-flats, and Lincoln Avenue cutting diagonally across the grid to keep truck routing interesting. Covers ZIP codes 60618 and 60613. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 20:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/10-north-center.mp3" length="2528582" type="audio/mpeg"/>
+      <guid isPermaLink="false">affordablecitymovers-north-center-010</guid>
+      <itunes:duration>2:36</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9510,-87.6790">North Center, Chicago, Illinois</podcast:location>
+    </item>
+    <item>
+      <title>Moving to Roscoe Village: The Trade You Make for Quiet</title>
+      <link>https://affordablecitymovers.com/roscoe-village-movers/</link>
+      <description><![CDATA[<p>Roscoe Village traded transit quality for quiet on purpose, and it worked. A compact low-rise grid, wide alleys, basements that eat more time than the stairwells, and a park with a kayak launch on the Chicago River.</p>
+<p>Covers ZIP codes 60618 and 60657.</p>
+<p><a href="https://affordablecitymovers.com/roscoe-village-movers/">Roscoe Village moving guide &rarr;</a></p>
+<p><strong>Affordable City Movers</strong><br/>
+3033 N Clark St Ste 007<br/>
+Chicago, IL 60657<br/>
+<a href="tel:3122100259">(312) 210-0259</a></p>]]></description>
+      <itunes:summary>Roscoe Village traded transit quality for quiet on purpose, and it worked. A compact low-rise grid, wide alleys, basements that eat more time than the stairwells, and a park with a kayak launch on the Chicago River. Covers ZIP codes 60618 and 60657. Affordable City Movers, 3033 N Clark St Ste 007, Chicago, IL 60657. Phone (312) 210-0259.</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.affordablecitymovers.com/11-roscoe-village.mp3" length="2384386" type="audio/mpeg"/>
+      <guid isPermaLink="false">affordablecitymovers-roscoe-village-011</guid>
+      <itunes:duration>2:27</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:location geo="geo:41.9427,-87.6790">Roscoe Village, Chicago, Illinois</podcast:location>
+    </item>
   </channel>
 </rss>
